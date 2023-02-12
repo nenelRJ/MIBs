@@ -10168,10 +10168,10 @@ Send this message with the 4 byte flags field. The response message will include
      		STATUS current
      		DESCRIPTION 
      		"Ability bitmap, 
-     		Bit 0 每 support Non-Fast-Leave when in IGMP snooping mod
-     		Bit 1 每 support Fast-Leave when in IGMP snooping mode
-     		Bit 2 每 support Non-Fast-Leave when in CTC Controlled IGMP mode
-     		Bit 3 每 support Fast-Leave when in CTC Controlled IGMP Mod"
+     		Bit 0 穡C support Non-Fast-Leave when in IGMP snooping mod
+     		Bit 1 穡C support Fast-Leave when in IGMP snooping mode
+     		Bit 2 穡C support Non-Fast-Leave when in CTC Controlled IGMP mode
+     		Bit 3 穡C support Fast-Leave when in CTC Controlled IGMP Mod"
    		::= { ucIgmpMsgOnuEntry 5 }
    		
    		-- 2.6.12.5.3.1.6
